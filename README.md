@@ -9,7 +9,7 @@ Visando no Futuro ser capaz de desenvolver Grandes Software 🖥️, e Apps 📱
 
 Atualmente Estudo as Seguintes Linguagem, enquanto Busco me aperfeiçoar no mundo da programação 
 
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white] [https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white]
 
 
 Agradeço Atenção, e Desejo um Otimo Dia :D
